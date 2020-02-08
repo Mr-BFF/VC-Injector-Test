@@ -1,0 +1,16 @@
+path =
+file 0 = 1.tga
+image    0 =  0, , RGB5A3
+texture 0  =  0, x
+file 1 = 2.tga
+image    1 =  1, , RGB5A3
+texture 1  =  1, x
+file 2 = 3.tga
+image    2 =  2, , RGB5A3
+texture 2  =  2, x
+file 3 = 4.tga
+image    3 =  3, , RGB5A3
+texture 3  =  3, x
+file 4 = 5.tga
+image    4 =  4, , RGB5A3
+texture 4  =  4, x

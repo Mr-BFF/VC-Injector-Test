@@ -1,0 +1,1 @@
+Tpl_Converter banner_us.wte.tpl

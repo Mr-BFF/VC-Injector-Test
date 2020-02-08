@@ -1,0 +1,4 @@
+path =
+file 0 = iconvcpic.tga
+image    0 =  0, 0, RGB565
+texture 0  =  0, x

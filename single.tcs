@@ -1,0 +1,4 @@
+path =
+file 0 = in.tga
+image    0 =  0, , RGB5A3
+texture 0  =  0, x
